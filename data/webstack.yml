@@ -1,7 +1,7 @@
 ---
 
-- taxonomy: 常用推荐
-  icon: fa-star
+- taxonomy: 本站自用
+  icon: fa-stars
   links: 
     - title: 是免费.NET
       logo: https://www.4mf.net/wp-content/uploads/2025/01/20250115060155599251.png
@@ -15,6 +15,9 @@
       logo: https://www.4mf.net/wp-content/uploads/2025/01/20250115060155599251.png
       url: https://xdq.us.kg
       description: 纯净分享，是免费.NET。       
+- taxonomy: 常用推荐
+  icon: fa-star
+  links: 
     - title: Dribbble
       logo: 
       url: https://dribbble.com/
