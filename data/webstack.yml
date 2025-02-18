@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: 是免费.NET
+      logo: https://www.4mf.net/wp-content/uploads/2025/01/20250115060155599251.png
+      url: https://www.4mf.net/
+      description: 纯净分享，是免费.NET。
     - title: Dribbble
       logo: 
       url: https://dribbble.com/
